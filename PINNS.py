@@ -8,7 +8,8 @@ PINNS.py — GPU-mem-safe:
 - Geometry latent expanded per-batch (no N-wide latent on GPU).
 - AMP (autocast + GradScaler) used to cut VRAM.
 """
-#for git test
+# this is Alice for git test
+#Hey This is Bob for git test
 import os, time, subprocess, threading
 import numpy as np
 import torch
